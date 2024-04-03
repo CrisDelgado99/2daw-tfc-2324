@@ -46,7 +46,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 **2º DAW Tarde**
 * Valkiria Pádel Club: Conde Serrano, Cristina + Trujillo Navarro, Santiago
 * YoTen: Cubillos García, Steven
-* HanamiTalks: Delgado Muñoz, Cristina
+* HanamiTalks: Delgado Muñoz, Cristina. [Anteproyecto Notion](https://www.notion.so/HanamiTalks-d3a4f4b88ec84964a7283280fa08795b#93442a378b3349e7bdb00486422783ca).**
 * TuDespacho: Feqri , Safaa
 * Aerog Travel: Fernández Chica, Antonio
 * CrochetArt: Gallego Fernández, Francisco Javier
